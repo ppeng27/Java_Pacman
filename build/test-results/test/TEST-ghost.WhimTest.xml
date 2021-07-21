@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ghost.WhimTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-07-20T01:38:10" hostname="Phoebes-MacBook-Air.local" time="0.011">
+  <properties/>
+  <testcase name="settingChaser()" classname="ghost.WhimTest" time="0.004"/>
+  <testcase name="itemStatesTest()" classname="ghost.WhimTest" time="0.001"/>
+  <testcase name="movementTest()" classname="ghost.WhimTest" time="0.001"/>
+  <testcase name="targetTest()" classname="ghost.WhimTest" time="0.001"/>
+  <testcase name="WhimConstructor()" classname="ghost.WhimTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

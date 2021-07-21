@@ -1,0 +1,20 @@
+ghost/AmbusherTest.java
+ ghost.AmbusherTest
+ghost/ManagerTest.java
+ ghost.ManagerTest
+ghost/WhimTest.java
+ ghost.WhimTest
+ghost/CellTest.java
+ ghost.CellTest
+ghost/ChaserTest.java
+ ghost.ChaserTest
+ghost/WakaTest.java
+ ghost.WakaTest
+ghost/IgnorantTest.java
+ ghost.IgnorantTest
+ghost/ReadFileTest.java
+ ghost.ReadFileTest
+ghost/AppTest.java
+ ghost.AppTest
+ghost/MapTest.java
+ ghost.MapTest

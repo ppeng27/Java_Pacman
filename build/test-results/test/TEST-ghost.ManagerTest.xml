@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ghost.ManagerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-07-20T01:38:10" hostname="Phoebes-MacBook-Air.local" time="0.373">
+  <properties/>
+  <testcase name="debugTest()" classname="ghost.ManagerTest" time="0.112"/>
+  <testcase name="ManagerSetup()" classname="ghost.ManagerTest" time="0.181"/>
+  <testcase name="tickTest()" classname="ghost.ManagerTest" time="0.076"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[java.lang.NullPointerException
+	at processing.core.PGraphics.image(PGraphics.java:3770)
+	at processing.core.PApplet.image(PApplet.java:12611)
+	at ghost.Waka.drawLives(Waka.java:215)
+	at ghost.Waka.draw(Waka.java:264)
+	at ghost.Manager.draw(Manager.java:73)
+	at ghost.App.draw(App.java:71)
+	at processing.core.PApplet.handleDraw(PApplet.java:2426)
+	at processing.awt.PSurfaceAWT$12.callDraw(PSurfaceAWT.java:1557)
+	at processing.core.PSurfaceNone$AnimationThread.run(PSurfaceNone.java:316)
+java.lang.NullPointerException
+	at processing.core.PGraphics.image(PGraphics.java:3770)
+	at processing.core.PApplet.image(PApplet.java:12611)
+	at ghost.Waka.drawLives(Waka.java:215)
+	at ghost.Waka.draw(Waka.java:264)
+	at ghost.Manager.draw(Manager.java:73)
+	at ghost.App.draw(App.java:71)
+	at processing.core.PApplet.handleDraw(PApplet.java:2426)
+	at processing.awt.PSurfaceAWT$12.callDraw(PSurfaceAWT.java:1557)
+	at processing.core.PSurfaceNone$AnimationThread.run(PSurfaceNone.java:316)
+java.lang.NullPointerException
+	at processing.core.PGraphics.image(PGraphics.java:3770)
+	at processing.core.PApplet.image(PApplet.java:12611)
+	at ghost.Waka.drawLives(Waka.java:215)
+	at ghost.Waka.draw(Waka.java:264)
+	at ghost.Manager.draw(Manager.java:73)
+	at ghost.App.draw(App.java:71)
+	at processing.core.PApplet.handleDraw(PApplet.java:2426)
+	at processing.awt.PSurfaceAWT$12.callDraw(PSurfaceAWT.java:1557)
+	at processing.core.PSurfaceNone$AnimationThread.run(PSurfaceNone.java:316)
+]]></system-err>
+</testsuite>

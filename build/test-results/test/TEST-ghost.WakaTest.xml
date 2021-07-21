@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ghost.WakaTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-07-20T01:38:10" hostname="Phoebes-MacBook-Air.local" time="0.02">
+  <properties/>
+  <testcase name="eatTest()" classname="ghost.WakaTest" time="0.001"/>
+  <testcase name="constructorTest()" classname="ghost.WakaTest" time="0.0"/>
+  <testcase name="CollisionTest()" classname="ghost.WakaTest" time="0.01"/>
+  <testcase name="NextMoveTest()" classname="ghost.WakaTest" time="0.001"/>
+  <testcase name="TurnTest()" classname="ghost.WakaTest" time="0.0"/>
+  <testcase name="changeDirectionTest()" classname="ghost.WakaTest" time="0.001"/>
+  <testcase name="tickTest()" classname="ghost.WakaTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

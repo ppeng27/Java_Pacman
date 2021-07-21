@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ghost.IgnorantTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-07-20T01:38:10" hostname="Phoebes-MacBook-Air.local" time="0.079">
+  <properties/>
+  <testcase name="itemStatesTest()" classname="ghost.IgnorantTest" time="0.04"/>
+  <testcase name="IgnorantConstructor()" classname="ghost.IgnorantTest" time="0.011"/>
+  <testcase name="movementTest()" classname="ghost.IgnorantTest" time="0.004"/>
+  <testcase name="targetTest()" classname="ghost.IgnorantTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

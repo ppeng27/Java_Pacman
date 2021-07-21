@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ghost.CellTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-07-20T01:38:10" hostname="Phoebes-MacBook-Air.local" time="0.007">
+  <properties/>
+  <testcase name="getterTest()" classname="ghost.CellTest" time="0.0"/>
+  <testcase name="isGhostTest()" classname="ghost.CellTest" time="0.0"/>
+  <testcase name="setterTest()" classname="ghost.CellTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
